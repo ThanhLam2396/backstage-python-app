@@ -4,10 +4,11 @@ metadata:
   name: backstage-python-app
   description: Python app that displays time.
   annotations:
-    github.com/project-slug: ricardoandre97/python-app
+    github.com/project-slug: ThanhLam2396/backstage-python-app
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
 
   lifecycle: experimental
+
